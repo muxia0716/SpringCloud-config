@@ -13,3 +13,5 @@ spring:
     show-sql: true
   application:
     name: UserService
+    
+version: UserService_0.0.1
