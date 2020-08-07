@@ -14,4 +14,4 @@ spring:
   application:
     name: UserService
     
-version: UserService_0.0.2
+version: UserService_0.0.3
